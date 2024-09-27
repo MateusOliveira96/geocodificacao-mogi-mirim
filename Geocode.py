@@ -4,7 +4,7 @@ import time
 import unicodedata
 
 # Sua chave de API do Geoapify
-API_KEY = "SuaChave"
+API_KEY = "SUA_CHAVE_API"
 
 # Dicionário de abreviações
 abreviacoes = {
